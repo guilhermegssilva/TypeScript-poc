@@ -15,6 +15,8 @@ Uma API para criar e gerenciar uma lista de heróis.
   `DELETE /profile/:id`: Deleta um herói.
   
 ## Instalação
+  Clone o repositório: https://github.com/guilhermegssilva/TypeScript-poc.git
+  
   Instale as dependências: ```npm install```
 
   Execute o Postgres
