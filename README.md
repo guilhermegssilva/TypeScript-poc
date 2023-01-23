@@ -28,7 +28,7 @@ Uma API para criar e gerenciar uma lista de heróis.
   Inicie o server: ```npm run dev```
   
   ## Utilização
-  A rota: `POST /profiles` - Cria um novo perfil utilizando os seguintes campos:
+  A rota: `POST /profile` - Cria um novo perfil utilizando os seguintes campos:
   ```json
 
  {
